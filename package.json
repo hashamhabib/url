@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "punycode": "git+https://github.com/hashamhabib/punycode.git",
-    "querystring": "0.2.0"
+    "querystring": "git+https://github.com/hashamhabib/querystring.git"
   },
   "repository": {
     "type": "git",
